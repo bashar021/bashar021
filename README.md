@@ -31,7 +31,7 @@
 
 ## 💼 Languages and Frameworks :
 
-![reactjs](icons\icons8-react-40.png "Reactjs") ![css](icons\icons8-css3-40.png "css")![html](icons\icons8-html-5-40.png "html")![nodejs]( icons\icons8-nodejs-40.png "nodejs")![django](icons\icons8-django-40.png "django")![bootstrap](icons\icons8-bootstrap-40.png "bootstrap")
+![reactjs](https://github.com/bashar021/bashar021/blob/main/icons/icons8-react-40.png "Reactjs") ![css](icons\icons8-css3-40.png "css")![html](icons\icons8-html-5-40.png "html")![nodejs]( icons\icons8-nodejs-40.png "nodejs")![django](icons\icons8-django-40.png "django")![bootstrap](icons\icons8-bootstrap-40.png "bootstrap")
 
 <!-- ![alt-text-2]( "title-2") -->
 <br>
@@ -42,7 +42,7 @@
 
 ## 🛠️ Tools :
 
- ![alt-text-2](icons\icons8-visual-studio-code-2019-40.png "title-2") ![alt-text-2](icons\icons8-adobe-illustrator-40.png "title-2") ![alt-text-2]( icons\icons8-adobe-xd-40.png "title-2") ![alt-text-2](icons\icons8-arduino-40.png "title-2") ![alt-text-2](icons\icons8-github-40.png "title-2")
+ ![alt-text-2](icons\icons8-visual-studio-code-2019-40.png "title-2") ![alt-text-2](https://github.com/bashar021/bashar021/blob/main/icons/icons8-react-40.png "title-2") ![alt-text-2]( icons\icons8-adobe-xd-40.png "title-2") ![alt-text-2](icons\icons8-arduino-40.png "title-2") ![alt-text-2](icons\icons8-github-40.png "title-2")
 
 
 <!-- <img src="icons\icons8-github-40.png"  alt="github" width="40" height="40"/>  -->

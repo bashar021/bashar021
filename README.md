@@ -49,5 +49,5 @@
 <br>
 
 ## 📈 GitHub Stats 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=bashar021)](https://github.com/bashar021)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar021&layout=compact)](https://github.com/bashar021)
+[![Deepa's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bashar021)](https://github.com/bashar021)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bashar021&layout=compact)](https://github.com/bashar021)

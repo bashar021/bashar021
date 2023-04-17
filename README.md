@@ -35,7 +35,7 @@
 <!-- ![alt-text-2]( "title-2") -->
 
 ## Database :
-![mongodb](https://github.com/bashar021/bashar021/blob/main/icons/icons8-mongodb-40.png "mongodb")![mysql](icons\https://github.com/bashar021/bashar021/blob/main/icons/icons8-mysql-logo-40.png "mysql")
+![mongodb](https://github.com/bashar021/bashar021/blob/main/icons/icons8-mongodb-40.png "mongodb")![mysql](https://github.com/bashar021/bashar021/blob/main/icons/icons8-mysql-logo-40.png "mysql")
 
 ## 🛠️ Tools :
  ![vs-code](https://github.com/bashar021/bashar021/blob/main/icons/icons8-visual-studio-code-2019-40.png "vs-code") ![adobe-illustrator](https://github.com/bashar021/bashar021/blob/main/icons/icons8-adobe-illustrator-40.png "adobe-illustrator") ![adobe-xd]( https://github.com/bashar021/bashar021/blob/main/icons/icons8-adobe-xd-40.png "adobe-xd") ![arduino-droid](https://github.com/bashar021/bashar021/blob/main/icons/icons8-arduino-40.png "arduino-droid") ![github](https://github.com/bashar021/bashar021/blob/main/icons/icons8-github-40.png "github")
